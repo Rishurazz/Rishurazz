@@ -26,10 +26,10 @@ Passionate about molding ideas into digital brilliance! 🌟 Backend Architect w
 #
 
 ### 📊 Github Stats
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rishurazz)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/therishuraj)
 <br/>
-![Rishurazz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rishurazz&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=Rishurazz&theme=gruvbox&border_radius=4.5)
+![therishuraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=therishuraj&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=therishuraj&theme=gruvbox&border_radius=4.5)
 
 #
 
